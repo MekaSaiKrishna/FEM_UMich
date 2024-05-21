@@ -7,7 +7,7 @@ ___
 - [x] Lecture-2: Introduction. Linear elliptic partial differential equations - II
 - [x] Lecture-3: Boundary conditions
 - [x] Lecture-4: Constitutive relations
-- [ ] Lecture-5: Strong form of the partial differential equation. Analytic solution 
+- [ ] Lecture-5: Strong form of the partial differential equation. Analytic solution ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit1/Lec_01_05.md))
 - [ ] Lecture-6: Weak form of the partial differential equation - I
 - [ ] Lecture-7: Weak form of the partial differential equation - II
 - [ ] Lecture-8: Equivalence between the strong and weak forms - 1
