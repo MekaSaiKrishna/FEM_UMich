@@ -19,17 +19,17 @@ ___
 
 ### Unit-2: Approximation. The finite-dimensional weak form.
 - [x] Lecture-1: The Galerkin, or finite-dimensional weak form ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_01.md))
-- [ ] Lecture-2: Basic Hilbert spaces - I ([Notes]())
-- [ ] Lecture-3: Basic Hilbert spaces - II ([Notes]())
-- [ ] Lecture-4: The finite element method for the one-dimensional, linear, elliptic partial differential equation ([Notes]())
-- [ ] Lecture-5: Basis functions - I ([Notes]())
-- [ ] Lecture-6: Basis functions - II ([Notes]())
-- [ ] Lecture-7: The bi-unit domain - I ([Notes]())
-- [ ] Lecture-8: The bi-unit domain - II ([Notes]())
-- [ ] Lecture-9: The finite dimensional weak form as a sum over element subdomains - I ([Notes]())
-- [ ] Lecture-10: The finite dimensional weak form as a sum over element subdomains - II ([Notes]())
-- [ ] *Lecture-11: Intro to C++ (Functions) ([Notes]())
-- [ ] *Lecture-12: Intro to C++ (Classes) ([Notes]())
+- [ ] Lecture-2: Basic Hilbert spaces - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_02.md))
+- [ ] Lecture-3: Basic Hilbert spaces - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_03.md))
+- [ ] Lecture-4: The finite element method for the one-dimensional, linear, elliptic partial differential equation ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_04.md))
+- [ ] Lecture-5: Basis functions - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_05.md))
+- [ ] Lecture-6: Basis functions - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_06.md))
+- [ ] Lecture-7: The bi-unit domain - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_07.md))
+- [ ] Lecture-8: The bi-unit domain - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_08.md))
+- [ ] Lecture-9: The finite dimensional weak form as a sum over element subdomains - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_09.md))
+- [ ] Lecture-10: The finite dimensional weak form as a sum over element subdomains - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_10.md))
+- [ ] *Lecture-11: Intro to C++ (Functions) ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_11.md))
+- [ ] *Lecture-12: Intro to C++ (Classes) ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_12.md))
 
 
 
