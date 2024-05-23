@@ -18,7 +18,7 @@ ___
 ___
 
 ### Unit-2: Approximation. The finite-dimensional weak form.
-- [ ] Lecture-1: The Galerkin, or finite-dimensional weak form ([Notes]())
+- [x] Lecture-1: The Galerkin, or finite-dimensional weak form ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_01.md))
 - [ ] Lecture-2: Basic Hilbert spaces - I ([Notes]())
 - [ ] Lecture-3: Basic Hilbert spaces - II ([Notes]())
 - [ ] Lecture-4: The finite element method for the one-dimensional, linear, elliptic partial differential equation ([Notes]())
