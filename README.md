@@ -13,4 +13,48 @@ ___
 - [x] Lecture-8: Equivalence between the strong and weak forms - 1 ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit1/Lec_01_08.md))
 - [ ] *Lecture-9: Intro to C++ (Running Your Code, Basic Structure, Number Types, Vectors)
 - [ ] *Lecture-10: Intro to C++ (Conditional Statements, "for" Loops, Scope)
-- [ ] *Lecture-11: Intro to C++ (Pointers, Iterators) 
+- [ ] *Lecture-11: Intro to C++ (Pointers, Iterators)
+
+___
+
+### Unit-2: Approximation. The finite-dimensional weak form.
+- [ ] Lecture-1: The Galerkin, or finite-dimensional weak form 
+- [ ] Lecture-2: Basic Hilbert spaces - I
+- [ ] Lecture-3: Basic Hilbert spaces - II
+- [ ] Lecture-4: The finite element method for the one-dimensional, linear, elliptic partial differential equation
+- [ ] Lecture-5: Basis functions - I
+- [ ] Lecture-6: Basis functions - II
+- [ ] Lecture-7: The bi-unit domain - I
+- [ ] Lecture-8: The bi-unit domain - II
+- [ ] Lecture-9: The finite dimensional weak form as a sum over element subdomains - I
+- [ ] Lecture-10: The finite dimensional weak form as a sum over element subdomains - II
+- [ ] Lecture-11: Intro to C++ (Functions)
+- [ ] Lecture-12: Intro to C++ (Classes) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
