@@ -23,7 +23,7 @@ ___
 - [x] Lecture-1: The Galerkin, or finite-dimensional weak form ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_01.md))
 - [x] Lecture-2: Basic Hilbert spaces - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_02.md))
 - [x] Lecture-3: Basic Hilbert spaces - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_03.md))
-- [ ] Lecture-4: The finite element method for the one-dimensional, linear, elliptic partial differential equation ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_04.md))
+- [x] Lecture-4: The finite element method for the one-dimensional, linear, elliptic partial differential equation ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_04.md))
 - [ ] Lecture-5: Basis functions - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_05.md))
 - [ ] Lecture-6: Basis functions - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_06.md))
 - [ ] Lecture-7: The bi-unit domain - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_07.md))
