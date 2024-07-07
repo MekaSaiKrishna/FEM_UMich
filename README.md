@@ -25,7 +25,7 @@ ___
 - [x] Lecture-3: Basic Hilbert spaces - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_03.md))
 - [x] Lecture-4: The finite element method for the one-dimensional, linear, elliptic partial differential equation ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_04.md))
 - [x] Lecture-5: Basis functions - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_05.md))
-- [ ] Lecture-6: Basis functions - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_06.md))
+- [x] Lecture-6: Basis functions - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_06.md))
 - [ ] Lecture-7: The bi-unit domain - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_07.md))
 - [ ] Lecture-8: The bi-unit domain - II ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_08.md))
 - [ ] Lecture-9: The finite dimensional weak form as a sum over element subdomains - I ([Notes](https://github.com/MekaSaiKrishna/FEM_UMich/blob/main/LectureNotes/Unit2/Lec_02_09.md))
